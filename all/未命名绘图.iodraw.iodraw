@@ -110,7 +110,7 @@
         <mxCell id="-rVK81or5i0-GVBfX90z-49" value="找老师签字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="195" y="428" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-rVK81or5i0-GVBfX90z-51" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-rVK81or5i0-GVBfX90z-51" value="老师不同意" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="558" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
