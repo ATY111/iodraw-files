@@ -61,8 +61,10 @@
         <mxCell id="-rVK81or5i0-GVBfX90z-30" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="358" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-rVK81or5i0-GVBfX90z-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-rVK81or5i0-GVBfX90z-33" target="-rVK81or5i0-GVBfX90z-35">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="-rVK81or5i0-GVBfX90z-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.573;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-rVK81or5i0-GVBfX90z-33" target="-rVK81or5i0-GVBfX90z-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="432.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-rVK81or5i0-GVBfX90z-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="-rVK81or5i0-GVBfX90z-38">
           <mxGeometry relative="1" as="geometry">
@@ -74,9 +76,6 @@
         </mxCell>
         <mxCell id="-rVK81or5i0-GVBfX90z-33" value="老师不同意" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="620" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-rVK81or5i0-GVBfX90z-35" value="请假失败" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="650" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-rVK81or5i0-GVBfX90z-37" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="630" width="40" height="30" as="geometry" />
