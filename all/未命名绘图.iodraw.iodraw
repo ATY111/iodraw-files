@@ -37,7 +37,7 @@
         <mxCell id="-rVK81or5i0-GVBfX90z-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-rVK81or5i0-GVBfX90z-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-rVK81or5i0-GVBfX90z-24" value="人事是否同意" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
