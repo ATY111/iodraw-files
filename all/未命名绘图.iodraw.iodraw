@@ -124,7 +124,7 @@
         <mxCell id="-rVK81or5i0-GVBfX90z-51" value="老师是否同意" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="558" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-rVK81or5i0-GVBfX90z-53" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-rVK81or5i0-GVBfX90z-53" value="找管人签字" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="95" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-rVK81or5i0-GVBfX90z-56" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
