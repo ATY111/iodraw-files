@@ -124,6 +124,9 @@
         <mxCell id="-rVK81or5i0-GVBfX90z-51" value="老师是否同意" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="558" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-rVK81or5i0-GVBfX90z-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-rVK81or5i0-GVBfX90z-53" target="-rVK81or5i0-GVBfX90z-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-rVK81or5i0-GVBfX90z-53" value="找主管人签字" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="95" y="730" width="120" height="60" as="geometry" />
         </mxCell>
@@ -139,8 +142,8 @@
         <mxCell id="-rVK81or5i0-GVBfX90z-62" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="650" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-rVK81or5i0-GVBfX90z-63" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="820" width="80" height="80" as="geometry" />
+        <mxCell id="-rVK81or5i0-GVBfX90z-63" value="是否同意" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="115" y="830" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
