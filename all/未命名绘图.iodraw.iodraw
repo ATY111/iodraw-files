@@ -145,9 +145,9 @@
         <mxCell id="-rVK81or5i0-GVBfX90z-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-rVK81or5i0-GVBfX90z-63" target="-rVK81or5i0-GVBfX90z-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-rVK81or5i0-GVBfX90z-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-rVK81or5i0-GVBfX90z-63">
+        <mxCell id="-rVK81or5i0-GVBfX90z-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-rVK81or5i0-GVBfX90z-63" target="-rVK81or5i0-GVBfX90z-38">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="1160" as="targetPoint" />
+            <mxPoint x="160" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-rVK81or5i0-GVBfX90z-63" value="是否同意" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
