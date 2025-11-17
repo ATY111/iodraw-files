@@ -19,6 +19,9 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="请假是否&lt;div&gt;超过一天&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="170" width="100" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-rVK81or5i0-GVBfX90z-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-rVK81or5i0-GVBfX90z-2" target="-rVK81or5i0-GVBfX90z-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-rVK81or5i0-GVBfX90z-2" value="找人事拿假条" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="180" width="110" height="55" as="geometry" />
         </mxCell>
@@ -79,8 +82,11 @@
         <mxCell id="-rVK81or5i0-GVBfX90z-38" value="写好假条交给人事" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-rVK81or5i0-GVBfX90z-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-rVK81or5i0-GVBfX90z-40" value="请假完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-rVK81or5i0-GVBfX90z-42" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="302.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
