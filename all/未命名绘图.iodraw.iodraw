@@ -74,7 +74,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-rVK81or5i0-GVBfX90z-33" value="老师不同意" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-rVK81or5i0-GVBfX90z-33" value="老师是否同意" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="620" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-rVK81or5i0-GVBfX90z-37" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -108,7 +108,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-rVK81or5i0-GVBfX90z-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-rVK81or5i0-GVBfX90z-49" target="-rVK81or5i0-GVBfX90z-46">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="600" />
+              <mxPoint x="110" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-rVK81or5i0-GVBfX90z-49" value="找老师签字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="195" y="428" width="120" height="60" as="geometry" />
